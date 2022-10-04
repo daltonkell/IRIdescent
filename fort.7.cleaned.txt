@@ -1,0 +1,39 @@
+#yyyy/mmdd(or -ddd)/hh.h):2021/ -62/21.0UT  geog Lat/Long/Alt= 37.8/  75.4/1000.0
+#
+#NeQuick is used for topside Ne profile
+#URSI maps are used for the F2 peak density (NmF2)
+#foF2 STORM model is turned off
+#AMTB-2013 model is used for F2 peak height (hmF2)
+#ABT-2009 option is used for the bottomside thickness parameter B0
+#Scotto-97 no L   option is used for the F1 occurrence probability
+#foE auroral storm model is turned off
+#IRI-1990   option is used for D-region
+#TBT-2012 with solar dependence is used for the electron temperature
+#RBV10+TBT15 option is used for ion composition
+#CGM coordinates not computed
+#auroral boundaries not computed
+#
+#Peak Densities/cm-3: NmF2= 133640.6   NmF1=      0.0   NmE=   1835.2
+#Peak Heights/km:     hmF2=   334.51   hmF1=     0.00   hmE=   110.00
+#
+#Solar Zenith Angle/degree                             140.0
+#Dip (Magnetic Inclination)/degree                      57.41
+#Modip (Modified Dip)/degree                            48.42
+#Solar Sunspot Number (12-months running mean) Rz12     14.4           
+#Ionospheric-Effective Solar Index IG12                  5.8           
+#Solar radio flux F10.7 (daily)                         74.4           
+#Solar radio flux F10.7 (81-day average)                73.1           
+#
+#-
+#   H   ELECTRON DENSITY   TEMPERATURES      ION PERCENTAGES[%]*10    1E16m-2
+#   km  Ne/cm-3 Ne/NmF2 Tn/K  Ti/K  Te/K  O+  N+  H+ He+ O2+ NO+ Clust TEC t/%
+ 100.0    1780  0.013   180   180   180   0   0   0   0  24 976  -1  -1.0  -1
+ 200.0    3336  0.025   674   674   732  90   0   0   0 186 724  -1  -1.0  -1
+ 300.0  107790  0.807   687   789   871 984  12   3   1   0   0  -1  -1.0  -1
+ 400.0  103990  0.778   687   904   940 946  20  26   8   0   0  -1  -1.0  -1
+ 500.0   49394  0.370   687   951   951 729  26 207  39   0   0  -1  -1.0  -1
+ 600.0   24410  0.183   687   968  1053 285  21 625  70   0   0  -1  -1.0  -1
+ 700.0   13677  0.102   687   985  1284  70  12 859  59   0   0  -1  -1.0  -1
+ 800.0    8546  0.064   687  1001  1511  24   8 916  52   0   0  -1  -1.0  -1
+ 900.0    5808  0.043   687  1018  1593  12   6 928  54   0   0  -1  -1.0  -1
+1000.0    4208  0.031   687  1035  1532   6   5 934  55   0   0  -1  -1.0  -1
