@@ -164,3 +164,13 @@ gnuplot> set title "Electron Density Profile\nLAT 37.8 LONG 75.4 2021-03-03T11:0
 gnuplot> set ylabel "Height (km)" font 'mono,10'
 gnuplot> set xlabel "Density (Ne/cm-3)" font 'mono,10'
 ```
+
+### References
+
+- https://people.duke.edu/~hpgavin/gnuplot.html
+- https://stackoverflow.com/questions/34561835/pass-arrays-from-c-c-to-fortran-and-return-a-calculated-array
+- https://gcc.gnu.org/onlinedocs/gfortran.pdf (my JETSON `man` pages didn't work)
+- https://stackoverflow.com/questions/69815577/gfortran-pass-logical-argument-to-fortran-function-from-c
+- https://fortranwiki.org/fortran/show/iso_c_binding
+- https://stackoverflow.com/questions/8207997/calling-a-fortran-subroutine-from-c
+- https://fortran-lang.discourse.group/t/iso-c-binding-looking-for-practical-example-of-how-it-helps-with-mangling/3393
