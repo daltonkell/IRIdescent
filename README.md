@@ -5,7 +5,7 @@ This repo contains a simple C-program acting as a driver for the [International 
 This is an exercise in mixed-language computing on Linux operating systems. Some of the findings
 may be machine-specific.
 
-![edp_ne_cm_3.png]
+![Electron Density Plot](edp_ne_cm_3.png)
 
 ### System Description
 
