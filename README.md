@@ -136,7 +136,7 @@ date, time, and location, I opted to keep some hardcoded values. As discussed be
 the `c-iri` results are not correct, and thus it would have been time wasted to add
 calls to `getc` and `putc` for input flexibility. Instead, the `main.c` program showcases
 my current knowledge of mixed C-FORTRAN programming and the extent to which I understand
-some fairly esoteric and arcane ionophere model code.
+some fairly esoteric and arcane ionosphere model code.
 
 ### Results
 
